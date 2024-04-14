@@ -5,7 +5,7 @@
 ### <APサーバーの名前とバージョン>
 - Puma version:6.4.2
 
-[puma.png](evidence/puma.png)
+![puma.png](evidence/puma.png)
 
 ### <APサーバーを終了させた場合、引き続きアクセスできるのか>
 - できない
@@ -17,7 +17,7 @@
 ### <DBサーバーの名前とバージョン>
 - MySQL version:8.0.36 for Linux on x86_64(MySQL Community Server -GPL)
 
-[mysql.png](./evidence/mysql.png)
+![mysql.png](evidence/mysql.png)
 
 ### <DBバージョンを終了した場合、引き続きアクセスできるのか>
 - できない
@@ -26,7 +26,7 @@
 ### <Railsの構成管理ツール>
 - Bundler:v2.3.14
 
-[bundler.png](./evidence/bundler.png)
+![bundler.png](evidence/bundler.png)
 
 ## 3. <課題から学んだこと・感じたこと>
 今回エラーメッセージ続きで本当に苦労しました。エラーメッセージを日本語に直して、意味を調べ理解していくのが大変でした。
